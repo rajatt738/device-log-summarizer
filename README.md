@@ -214,6 +214,7 @@ The following error cases are handled in the code:
 
 ## AI Usage
 
-This project was built with AI assistance (Google Antigravity). The AI wrote the initial code for all three sections based on prompts describing the requirements. After each section was generated, I ran the code, checked the output, and identified issues — then asked the AI to fix them.
+AI assistance was used during development to generate initial code, review implementation details, and troubleshoot issues. I ran the code, verified the outputs, and tested edge cases, then used AI assistance to resolve issues identified during testing.
 
-See `PROMPT_LOG.md` for the full log of prompts used, what the AI initially produced, and which bugs were caught during review and testing.
+See [PROMPT_LOG.md](PROMPT_LOG.md) for the prompts, debugging steps, and documented AI-assisted changes.
+
